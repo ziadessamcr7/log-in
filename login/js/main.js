@@ -16,7 +16,7 @@ document.getElementById('btn').addEventListener('click', function() {
     else{
         // validate()
         checkUser()
-        document.getElementById('btn').setAttribute('href', '/Assignment 4-js/home/index.html')
+        // document.getElementById('btn').setAttribute('href', '../../home/index.html')
     }
 })
 
